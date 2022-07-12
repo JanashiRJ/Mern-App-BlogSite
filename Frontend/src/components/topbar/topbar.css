@@ -24,7 +24,7 @@
 
 .topIcon {
   font-size: 20px;
-  margin-right: 10px;
+  margin-right: 15px;
   color: #444;
   cursor: pointer;
 }
@@ -46,15 +46,15 @@
 }
 
 .topListItem {
-  margin-right: 20px;
-  font-size: 18px;
-  font-weight: 300;
+  margin-right: 15px;
+  font-size: 16spx;
+  font-weight: bold;
   cursor: pointer;
 }
 
 .topSearchIcon {
   font-size: 18px;
-  color: #666;
+  color: rgb(8, 8, 8);
   cursor: pointer;
-  margin-left: 15px;
+  margin-left: 20px;
 }
