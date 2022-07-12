@@ -1,5 +1,5 @@
 .header {
-  margin-top: 60px;
+  margin-top: 0px;
 }
 
 .headerTitles {
@@ -7,24 +7,31 @@
   flex-direction: column;
   align-items: center;
   font-family: "Lora", serif;
-  color: #444;
+  
+ 
 }
 
 .headerTitleSm {
   position: absolute;
   top: 18%;
-  font-size: 20px;
+  font-size: 70px;
+  margin-top: 110px;
+  margin-left: 15px;
+  color: rgb(10, 15, 12);
 }
 
 .headerTitleLg {
   position: absolute;
   top: 20%;
+  margin-top: 145px;
   font-size: 100px;
+  color: rgb(3, 39, 21);
+  font-family: "Lora";
 }
 
 .headerImg{
     width: 100%;
-    height: 450px;
-    margin-top: 80px;
+    height: 600px;
+    margin-top: 0px;
     object-fit: cover;
 }
