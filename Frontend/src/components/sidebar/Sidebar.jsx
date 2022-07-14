@@ -18,7 +18,7 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://i.pinimg.com/236x/1e/3f/58/1e3f587572a7a7b20bbf1828595a1786--holiday-party-themes-holiday-gift-guide.jpg"
+          src="https://plantsnap.com/wp-content/uploads/2018/05/girl-2620001_640.jpg"  className="sidebarImg"
           alt=""
         />
         <p>
