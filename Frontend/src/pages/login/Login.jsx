@@ -24,7 +24,12 @@ export default function Login() {
   };
 
   return (
+    // eslint-disable-next-line react/jsx-no-comment-textnodes
+    <div className="background">
     <div className="login">
+      <img src="https://img.icons8.com/ios-filled/2x/user-male-circle.png"
+       className="imageuser" >
+       </img>
       <span className="loginTitle">Login</span>
       <form className="loginForm" onSubmit={handleSubmit}>
         <label>Username</label>
@@ -50,6 +55,7 @@ export default function Login() {
           Register
         </Link>
       </button>
+    </div>
     </div>
   );
 }

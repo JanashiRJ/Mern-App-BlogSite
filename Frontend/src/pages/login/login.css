@@ -1,16 +1,32 @@
-.login {
+.background{
   height: calc(100vh - 50px);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(148, 143, 143, 0.5),
+      rgba(10, 116, 51, 0.5)
     ),
-    url("https://images.pexels.com/photos/768473/pexels-photo-768473.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    url("https://wallpaperaccess.com/full/493222.jpg");
   background-size: cover;
+
 }
+.login {
+  height: 500px;
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+      rgba(10, 126, 29, 0.5),
+      rgba(3, 56, 23, 0.5)
+    ),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5mGNz4TE-hFdwgqC6JpiPgOY4nZjSbEwPXsRS2vJuWMEGxoDeFN3APykawPn7-w_Gt0&usqp=CAU");
+  background-size: contain;
+}
+
 
 .loginTitle {
   font-size: 50px;
