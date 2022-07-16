@@ -86,10 +86,10 @@
   position: absolute;
   top: 60px;
   right: 20px;
-  background-color: teal;
+  background-color: rgb(61, 108, 114);
   cursor: pointer;
   border: none;
   padding: 10px;
-  color: white;
+  color: rgb(255, 255, 255);
   border-radius: 10px;
 }
