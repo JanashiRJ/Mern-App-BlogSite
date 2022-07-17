@@ -16,7 +16,7 @@ export default function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebarItem">
-        <span className="sidebarTitle">ABOUT ME</span>
+        <span className="sidebarTitle">ABOUT</span>
         <img
           src="https://plantsnap.com/wp-content/uploads/2018/05/girl-2620001_640.jpg"  className="sidebarImg"
           alt=""
