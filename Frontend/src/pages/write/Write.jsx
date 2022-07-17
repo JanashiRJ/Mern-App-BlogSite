@@ -34,7 +34,8 @@ export default function Write() {
   return (
     <div className="write">
           <div>
-        <img src="https://media.istockphoto.com/photos/mock-up-dark-leather-desk-work-with-laptop-retro-books-notebooks-a-picture-id878803534?k=20&m=878803534&s=612x612&w=0&h=CzYJdQBllauoEYBkFF7LIt5fm96PBL0hEh9ccDQ4hXE=" className="background"></img>
+        <img src="https://media.istockphoto.com/photos/mock-up-dark-leather-desk-work-with-laptop-retro-books-notebooks-a-picture-id878803534?k=20&m=878803534&s=612x612&w=0&h=CzYJdQBllauoEYBkFF7LIt5fm96PBL0hEh9ccDQ4hXE=" 
+        width="100%" height="400px"></img>
         <div>
         <span className="title">Write your ideas...</span>
       </div>
