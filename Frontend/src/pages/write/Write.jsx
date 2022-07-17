@@ -33,10 +33,14 @@ export default function Write() {
   };
   return (
     <div className="write">
+          <div>
+        <img src="https://media.istockphoto.com/photos/modern-minimalistic-work-place-white-office-desk-table-with-laptop-picture-id664221798?k=20&m=664221798&s=612x612&w=0&h=urfmcVtkayQgKU6PNOklsoeVq3cchBwtXIcKGek2QDY=" className="background"></img>"
+      </div>
       {file && (
         <img className="writeImg" src={URL.createObjectURL(file)} alt="" />
       )}
       <form className="writeForm" onSubmit={handleSubmit}>
+
         <div className="writeFormGroup">
           <label htmlFor="fileInput">
             <i className="writeIcon fas fa-plus"></i>
