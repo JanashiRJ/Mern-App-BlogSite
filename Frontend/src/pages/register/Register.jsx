@@ -26,6 +26,9 @@ export default function Register() {
   return (
     <div className="background">
     <div className="register">
+    <img src="https://img.icons8.com/ios-filled/2x/user-male-circle.png"
+       className="imageuser" >
+       </img>
       <span className="registerTitle">Register</span>
       <form className="registerForm" onSubmit={handleSubmit}>
         <label>Username</label>
