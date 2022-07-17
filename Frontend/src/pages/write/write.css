@@ -13,12 +13,22 @@
 
 .background{
   width: 100%;
-  height: 400px;
+  height: 420px;
+}
+
+.title {
+  position: absolute;
+  top: 10%;
+  font-size: 110px;
+  font-weight: bold;
+  margin-top: 180px;
+  margin-left: 220px;
+  color: rgb(0, 0, 0);
 }
 
 .writeForm {
   position: relative;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .writeFormGroup {

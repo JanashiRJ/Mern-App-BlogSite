@@ -34,7 +34,10 @@ export default function Write() {
   return (
     <div className="write">
           <div>
-        <img src="https://media.istockphoto.com/photos/modern-minimalistic-work-place-white-office-desk-table-with-laptop-picture-id664221798?k=20&m=664221798&s=612x612&w=0&h=urfmcVtkayQgKU6PNOklsoeVq3cchBwtXIcKGek2QDY=" className="background"></img>"
+        <img src="https://media.istockphoto.com/photos/mock-up-dark-leather-desk-work-with-laptop-retro-books-notebooks-a-picture-id878803534?k=20&m=878803534&s=612x612&w=0&h=CzYJdQBllauoEYBkFF7LIt5fm96PBL0hEh9ccDQ4hXE=" className="background"></img>
+        <div>
+        <span className="title">Write your ideas...</span>
+      </div>
       </div>
       {file && (
         <img className="writeImg" src={URL.createObjectURL(file)} alt="" />
@@ -74,3 +77,5 @@ export default function Write() {
     </div>
   );
 }
+
+//https://media.istockphoto.com/photos/modern-minimalistic-work-place-white-office-desk-table-with-laptop-picture-id664221798?k=20&m=664221798&s=612x612&w=0&h=urfmcVtkayQgKU6PNOklsoeVq3cchBwtXIcKGek2QDY=
