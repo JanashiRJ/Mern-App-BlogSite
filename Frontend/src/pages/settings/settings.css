@@ -14,9 +14,10 @@
 }
 
 .settingsUpdateTitle {
-  font-size: 30px;
+  font-size: 35px;
+  font-weight: bold;
   margin-bottom: 20px;
-  color: lightcoral;
+  color: rgb(33, 3, 116);
 }
 
 .settingsDeleteTitle {
@@ -37,9 +38,10 @@
 }
 
 .settingsPP > img {
-  width: 70px;
-  height: 70px;
-  border-radius: 20px;
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  margin-top: 5px;
   object-fit: cover;
 }
 
@@ -47,7 +49,7 @@
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background-color: lightcoral;
+  background-color: rgb(233, 78, 78);
   color: white;
   display: flex;
   align-items: center;
@@ -58,12 +60,12 @@
 
 .settingsForm > label {
   font-size: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .settingsForm > input {
   color: gray;
-  margin: 10px 0;
+  margin-top: 12px;
   height: 30px;
   border: none;
   border-bottom: 1px solid lightgray;
