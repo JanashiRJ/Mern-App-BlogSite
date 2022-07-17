@@ -22,8 +22,10 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate qui
-          necessitatibus nostrum illum reprehenderit.
+        Flowers & Seasons are intimately bound to each other.
+        Most of the flowers are season - specific. 
+        Though some flowers are found throughout the year, 
+        there are some not particularly affected by changing seasons.
         </p>
       </div>
       <div className="sidebarItem">
