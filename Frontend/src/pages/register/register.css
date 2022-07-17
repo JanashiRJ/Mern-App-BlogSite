@@ -27,6 +27,11 @@
   background-size: contain;
 }
 
+.imageuser{
+  height: 80px;
+  width: 80px;
+}
+
 
 .registerTitle {
   font-size: 50px;
