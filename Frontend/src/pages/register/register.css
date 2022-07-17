@@ -5,10 +5,10 @@
   align-items: center;
   justify-content: center;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(148, 143, 143, 0.5),
+      rgba(10, 116, 51, 0.5)
     ),
-    url("https://images.pexels.com/photos/317355/pexels-photo-317355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    url("https://png.pngtree.com/thumb_back/fh260/background/20220626/pngtree-background-abstract-hijau-keren-dan-kosong-image_1415518.jpg");
   background-size: cover;
 }
 
