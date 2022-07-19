@@ -26,14 +26,23 @@ export default function About() {
       <span className="title2">1 Spring Flowers</span>
       </div>
       <div>
-      <span className="para2">Summer is the time of hot and warm weather. 
-      Floral growth is best in the summer season. 
-      The Northern hemisphere experiences summer during June, July, and August, while in the Southern hemisphere, during December - February.
-      Summer is the season of the Midnight sun in the North pole and Ice land.
-      The Flowers Blooming in Summer are:
-      <span className="para3">Alchemilla, Allium, Alstromeria, Amaranthus, Baby's Breath , Bird of Paradise, Calla lily, Campanula, Carnation, Chrysanthemum, Cockscomb, Cosmos, Dahlia, Delphinium, Dianthus, Didiscus, Euphorbia, Foxglove, Freesia, Gardenia, Genista, Ginger, Gladiolus, Hallaconia, Heather, Hydrangea, Hypericum, Iris, Kangaroo paw, Liatrus, Lilac, Casa Blanca Lily, Gloriosa Lily, Star Gazer, Lisianthus.</span>
+      <span className="para2">Spring Time the time of growth and renewal of new plant and animal life. 
+      Spring comes at different times in the North and South Hemispheres.
+      Spring time in the Northern hemisphere is between March - May, and between September - 
+      November in the Southern hemisphere. Most flowering plants bloom during spring time.
+       Therefore, flowers that bloom only during spring, Spring Flowers, bloom at different times in the two hemispheres.
+      <span className="para3">Agapanthus, Amaryllis, Anemone, Apple blossom, Bird of Paradise, Brodea,
+       Calla lily, Cherry Blossom, Corn flower, Cosmose, Dahlia, Delphinium, Delwood, Forsythia,
+      Freesia, Gardenia, Heather, Helleborus, Hollyhock, Hyacinth, Larkspur, Casa Blanca Lily,
+      Gloriosa Lily, Stargazer, Liatrus, Lilac, Lisianthus, Narcissus, Orchid, Peach blossom, 
+      Peony, Phlox, Poppy, Protea, Pussy willow, Ranunculus, Rose, Seeded Eucalyptus, Solidago,
+      Statice, Stephanotis, Stock, Sweet Pea, Tulip, Viburnum, Wax flower, Zinnia</span>
       </span>
       </div>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3fqMGZ7-in5s490rUcpzlLukRSzIYJJFJLc_mEqm-SXMIWQ-Nel1qOwo8atngnCPwnA&usqp=CAU" 
+        className="image1"></img>
+        </div>
     </div>
   );
 }
