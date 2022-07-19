@@ -106,6 +106,32 @@ The Flowers Blooming in Summer are:
         
         </div>
       </div>
+      <div>
+      <div>
+      <span className="title2">4. Winter Flowers</span>
+      </div>
+      <div>
+      <span className="para2">Winter is the season of cold weather. 
+      The season occurs during December - February in the Northern hemisphere. 
+      In the Southern hemisphere winter occurs during June - August.
+      The Flowers Blooming in Winter are:
+
+      <span className="para3">Acashia, Alstromeria, Amaryllis, Carnation, Chrysanthemums, 
+      Cyclamen, Evergreens, Gerbera Daisy, Ginger, Helleborus, Holly berry, Lily, Asiatic Lily, 
+      Casa Blanca Lily, Narcissus, Orchid, Pansy, Pepperberry, Phlox, Protea, Queen Ann's Lace, 
+      Roses, Star of Bethlehem, Statice.</span>
+      </span>
+      </div>
+      <div>
+        <img src="https://www.gardeners.com/globalassets/articles/gardening/2021content/5410_8611123_terramysticaterracottastarexoticstar_2021_07.jpg" 
+        className="image1" width="280px"  height="180px" ></img>
+        <img src="https://img.crocdn.co.uk/images/products2/pl/20/00/00/54/pl2000005441.jpg?width=940&height=940" 
+        className="image1" width="280px"  height="180px" ></img>
+        <img src="https://gardenine.com/wp-content/uploads/2020/06/Narcissus-vs-Daffodils-vs-Jonquils-comparison-and-differences.jpg" 
+        className="image1" width="280px"  height="180px" ></img>
+        
+        </div>
+      </div>
     </div>
   );
 }
