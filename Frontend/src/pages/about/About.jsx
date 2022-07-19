@@ -23,6 +23,7 @@ export default function About() {
       There are four general seasons occurring on Earth - Spring, Summer, Autumn and Winter.</span>
       </div>
       <div>
+      <div>
       <span className="title2">1 Spring Flowers</span>
       </div>
       <div>
@@ -41,8 +42,42 @@ export default function About() {
       </div>
       <div>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3fqMGZ7-in5s490rUcpzlLukRSzIYJJFJLc_mEqm-SXMIWQ-Nel1qOwo8atngnCPwnA&usqp=CAU" 
-        className="image1"></img>
+        className="image1" width="280px"  height="180px"></img>
+        <img src="https://southernlivingplants.com/wp-content/uploads/How_To_Maximize_Gardenia_Blooms_1200x630.jpg" 
+        className="image1" width="280px"  height="180px"></img>
+        <img src="https://www.highcountrygardens.com/media/catalog/product/l/i/lilystargazer_7.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:" 
+        className="image1" width="280px"  height="180px"></img>
         </div>
+      </div>
+      <div>
+      <div>
+      <span className="title2">2 Summer Flowers</span>
+      </div>
+      <div>
+      <span className="para2">Summer is the time of hot and warm weather. 
+      Floral growth is best in the summer season. The Northern hemisphere 
+      experiences summer during June, July, and August, while in the Southern hemisphere, during December - February.
+      Summer is the season of the Midnight sun in the North pole and Ice land.
+The Flowers Blooming in Summer are:
+
+
+      <span className="para3">Alchemilla, Allium, Alstromeria, Amaranthus, Baby's Breath , 
+      Bird of Paradise, Calla lily, Campanula, Carnation, Chrysanthemum, Cockscomb, Cosmos, 
+      Dahlia, Delphinium, Dianthus, Didiscus, Euphorbia, Foxglove, Freesia, Gardenia, Genista, 
+      Ginger, Gladiolus, Hallaconia, Heather, Hydrangea, Hypericum, Iris, Kangaroo paw, Liatrus, 
+      Lilac, Casa Blanca Lily, Gloriosa Lily, Star Gazer, Lisianthus.</span>
+      </span>
+      </div>
+      <div>
+        <img src="https://nurserynisarga.in/wp-content/uploads/2020/07/Bird-of-Paradise-Plant-03.webp" 
+        className="image1" width="280px"  height="180px" ></img>
+        <img src="https://www.1800flowers.com/blog/wp-content/uploads/2017/10/Colorful-Chrysanthemums.jpg" 
+        className="image1" width="280px"  height="180px" ></img>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJQD18SMuzXCfGxPN2m6x3ukm_OjpfK1M1Y5T1aujSMTF0hlUp63je02Na5SI8pW6pxg&usqp=CAU" 
+        className="image1" width="280px"  height="180px" ></img>
+        
+        </div>
+      </div>
     </div>
   );
 }
