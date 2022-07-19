@@ -24,7 +24,7 @@ export default function About() {
       </div>
       <div>
       <div>
-      <span className="title2">1 Spring Flowers</span>
+      <span className="title2">1. Spring Flowers</span>
       </div>
       <div>
       <span className="para2">Spring Time the time of growth and renewal of new plant and animal life. 
@@ -51,7 +51,7 @@ export default function About() {
       </div>
       <div>
       <div>
-      <span className="title2">2 Summer Flowers</span>
+      <span className="title2">2. Summer Flowers</span>
       </div>
       <div>
       <span className="para2">Summer is the time of hot and warm weather. 
@@ -74,6 +74,34 @@ The Flowers Blooming in Summer are:
         <img src="https://www.1800flowers.com/blog/wp-content/uploads/2017/10/Colorful-Chrysanthemums.jpg" 
         className="image1" width="280px"  height="180px" ></img>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJQD18SMuzXCfGxPN2m6x3ukm_OjpfK1M1Y5T1aujSMTF0hlUp63je02Na5SI8pW6pxg&usqp=CAU" 
+        className="image1" width="280px"  height="180px" ></img>
+        
+        </div>
+      </div>
+      <div>
+      <div>
+      <span className="title2">3. Autumn Flowers</span>
+      </div>
+      <div>
+      <span className="para2">Autumn is the season of the primary harvest. 
+      Autumn falls during September - November in the Northern hemisphere, 
+      and during September - November in the Southern hemisphere. 
+      Crops are harvested during Autumn. Beautiful leaves that change color are at their best.
+      Flowers Blooming in Autumn are:
+
+      <span className="para3">Acashia, Allium, Alstromeria, Amaranthus, Anemone, Baby's Breath, 
+      Bittersweet, Carnation, China berry, Chrysanthemum, Cockscomb, Cosmos, Echinops, Freesia, 
+      Gerbera Daisy, Gladiolus, Hypericum, Iris, Juniper, Kangaroo paw, Kalancheo, Liatrus, Lily, 
+      Asiatic, Lily, Gloriosa, Misty Blue, Orchid, Pepper berry, Protea, Queen Ann's Lace, Quince, 
+      Rover, Roses, Rowen berry, Salvia, Solidago, Statice, Star of Bethlehem, Sunflower, Yarrow, Zinnia.</span>
+      </span>
+      </div>
+      <div>
+        <img src="https://www.americanmeadows.com/media/catalog/product/l/i/lillium-oriental-asiatic-kaveri.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=560&canvas=560:560" 
+        className="image1" width="280px"  height="180px" ></img>
+        <img src="https://media.istockphoto.com/photos/red-cockscomb-flower-or-crested-celosia-flower-and-green-leaf-picture-id1020452840?k=20&m=1020452840&s=612x612&w=0&h=BwifHyRuf2eMWRDTDz0wYeBq05gXmpuIdLncYi0zJTU=" 
+        className="image1" width="280px"  height="180px" ></img>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzAxHmrJNoQF2hAxwhN0L6d4hSwoNug054QF8iIot1aA_8ZxAnRlEoNK7vgZvw5VxqgzU&usqp=CAU" 
         className="image1" width="280px"  height="180px" ></img>
         
         </div>
