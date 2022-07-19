@@ -1,0 +1,24 @@
+.write {
+    padding-top: 0px;
+  }
+  
+  .writeImg {
+    margin-left: 150px;
+    width: 70vw;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .title {
+    position: absolute;
+    top: 10%;
+    font-size: 90px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 220px;
+    color: rgb(0, 0, 0);
+  }
+  
+ 
+
