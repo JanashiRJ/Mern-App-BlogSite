@@ -8,8 +8,8 @@ export default function contact() {
     <img src="https://www.iconpacks.net/icons/3/free-icon-mail-5888.png"
        className="imageuser" >
        </img>
-       <span className="loginTitle">Contact Us</span>
-      <form className="loginForm">
+       <span className="Title">Contact Us</span>
+      <form className="Form">
         <label>Your Name
         <input
           type="text"
@@ -31,12 +31,13 @@ export default function contact() {
           placeholder="Type your message..."
         />
         </label>
-        <button className="Button" type="submit">
+        <button className="Button" type="submit" >
           Send
         </button>
       </form>
     </div>
     </div>
     </div>
+
   );
 }
