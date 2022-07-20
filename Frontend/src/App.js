@@ -27,6 +27,7 @@ function App() {
         <Route path="/about">{user ? <About /> : <Register />}</Route>
         <Route path="/contact">{user ? <Contact /> : <Register />}</Route>
         <Route path="/post/:postId">
+        
           <Single />
         </Route>
       </Switch>
