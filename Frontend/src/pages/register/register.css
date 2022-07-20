@@ -1,0 +1,101 @@
+.background {
+  height: calc(100vh - 50px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),
+    url("https://c0.wallpaperflare.com/preview/487/534/481/united-states-los-angeles-little-tokyo-pink-thumbnail.jpg");
+  background-size: cover;
+}
+
+.register {
+  height: 500px;
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+    rgba(1, 63, 82, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("https://us.123rf.com/450wm/rawpixel/rawpixel1906/rawpixel190600375/124724924-solid-navy-blue-concrete-textured-wall.jpg?ver=6");
+  background-size: contain;
+}
+
+.imageuser{
+  height: 80px;
+  width: 80px;
+}
+
+
+.registerTitle {
+  font-size: 50px;
+}
+
+.registerForm {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.registerForm > label {
+  margin: 10px 0;
+}
+
+.registerInput1 {
+  padding: 10px;
+  background-color: rgb(127, 156, 135);
+  border: none;
+  margin-left: 25px;
+  font-size: 12px;
+}
+
+.registerInput2 {
+  padding: 10px;
+  background-color: rgb(127, 156, 135);
+  border: none;
+  margin-left: 61px;
+  font-size: 12px;
+}
+
+.registerInput3 {
+  padding: 10px;
+  background-color: rgb(127, 156, 135);
+  border: none;
+  margin-left: 30px;
+  font-size: 12px;
+}
+
+.registerButton {
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: rgb(115, 115, 117);
+  border: none;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 135px;
+  height: 40px;
+  margin-left: 130px;
+}
+
+.registerLoginButton {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background-color: rgb(0, 95, 133);
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
