@@ -71,7 +71,7 @@ The Flowers Blooming in Summer are:
       <div>
         <img src="https://nurserynisarga.in/wp-content/uploads/2020/07/Bird-of-Paradise-Plant-03.webp" 
         className="image1" width="280px"  height="180px" ></img>
-        <img src="https://www.1800flowers.com/blog/wp-content/uploads/2017/10/Colorful-Chrysanthemums.jpg" 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEA331dJV9qFDNlx387wGAtjStp1CXH7pxHQ&usqp=CAU" 
         className="image1" width="280px"  height="180px" ></img>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJQD18SMuzXCfGxPN2m6x3ukm_OjpfK1M1Y5T1aujSMTF0hlUp63je02Na5SI8pW6pxg&usqp=CAU" 
         className="image1" width="280px"  height="180px" ></img>
