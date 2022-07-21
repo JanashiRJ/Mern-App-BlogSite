@@ -13,7 +13,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "heroku-postbuild": "npm install --prefix Frontend && npm run build -- prefix Frontend"
+    "heroku-postbuild": "npm install --prefix Frontend && npm run build --prefix Frontend"
   },
   "author": "",
   "license": "ISC",
